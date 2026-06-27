@@ -27,7 +27,7 @@ A full-stack calorie and macro tracking app that uses AI to analyze meals from p
 - [FastAPI](https://fastapi.tiangolo.com/) (Python)
 - [SQLAlchemy](https://www.sqlalchemy.org/) for the database layer
 - SQLite (default) — swappable for Postgres/MySQL
-- AI/LLM API for natural-language food analysis (configurable)
+- LOCAL LLM (Ollama) integration for natural-language food analysis (configurable)
 
 ---
 
