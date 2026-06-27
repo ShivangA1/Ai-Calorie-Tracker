@@ -9,7 +9,10 @@ A full-stack calorie and macro tracking app that uses AI to analyze meals from p
 - 🍽️ **AI Meal Analysis** — type in a meal (e.g. *"2 eggs and a bowl of oats"*) and instantly get calories, protein, carbs, and fat
 - 📊 **Calorie & Protein Goals** — live progress bars tracking daily intake against targets
 - ⚖️ **Weight Tracking** — log body weight over time with a trend chart
+<<<<<<< HEAD
 - 🧮 **Personal Macro Calculator** — calculates BMR (Mifflin-St Jeor), TDEE, and daily macro targets based on height, weight, age, gender, activity level, and goal (lose / maintain / gain)
+=======
+>>>>>>> b9d81120ed6cf1a8d3897bf9ecd7f43ae6cf6400
 - 📈 **Interactive Charts** — calorie trend and weight trend visualizations (Recharts)
 - 🗑️ **Full CRUD** — delete individual meals, clear meal history, or clear weight history independently
 - 🌑 **Dark, modern UI** — custom dashboard design with no external UI framework dependency
@@ -27,7 +30,11 @@ A full-stack calorie and macro tracking app that uses AI to analyze meals from p
 - [FastAPI](https://fastapi.tiangolo.com/) (Python)
 - [SQLAlchemy](https://www.sqlalchemy.org/) for the database layer
 - SQLite (default) — swappable for Postgres/MySQL
+<<<<<<< HEAD
 - AI/LLM API for natural-language food analysis (configurable)
+=======
+- LOCAL LLM (Ollama) integration for natural-language food analysis (configurable)
+>>>>>>> b9d81120ed6cf1a8d3897bf9ecd7f43ae6cf6400
 
 ---
 
